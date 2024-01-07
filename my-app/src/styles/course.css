@@ -1,0 +1,15 @@
+.Course__page {
+   margin-top: -6rem;
+   margin-left: 2rem;
+   background-color: rgb(190, 146, 231);
+}
+
+.Course__Container{
+   margin-left: 2rem;
+   margin-top: -4rem;
+}
+
+.Course__Container .btn{
+   margin-left: 4rem;
+   margin-bottom: 2rem;
+}

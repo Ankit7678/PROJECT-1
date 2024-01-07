@@ -1,0 +1,24 @@
+.Notice__display{
+    flex-direction: column;
+   
+}
+
+.about__page{
+    margin-top: -2rem;
+}
+
+.Notice__name i{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.logo__About img{
+    height: 200px;
+ 
+    margin-left: 5rem;
+}
+
+.Social{
+    justify-content: space-evenly;
+}
